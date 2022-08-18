@@ -1,4 +1,7 @@
 # Wii-Disc-Drive-Gear
+
+This file contains a 3D model of a helical gear found inside of a Nintendo Wii DVD drive. The file type is CTB and has been sliced with ChituBox.  
+
 This is a helical gear that is compatible with the Nintendo Wii's DVD disc drive. 
 Please note that this gear may not work with your drive and further modification to your drive may be necessary. 
 The modification I recomend is as follows:
