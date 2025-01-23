@@ -14,3 +14,5 @@ I suggest you drill a hole in the metal plate directly above this shaft.
 In this hole, put a small screw and tighten it so it is just above the shaft.
 When you put the metal play back on the disc drive, the screw will act as a hard stop for the shaft.
 Not allowing it to move up and down freely.
+
+Use an early version of Chitubox
